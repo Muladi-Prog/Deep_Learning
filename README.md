@@ -1,6 +1,6 @@
 # Deep_Learning
 
-Few of my projects in another repo!
+Few of my projects in another repo! 🤩
 
 - [Hybrid Recommender System using Graph Neural Network with Link Prediction](https://github.com/Muladi-Prog/Hybri_Recommender_Sytem_using_Graph_Representation_Learning)
 
